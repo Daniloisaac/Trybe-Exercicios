@@ -34,11 +34,20 @@
     position: relative;
     top:90px;
    }
-   li:hover{
+   ul li:hover{
    background-color: rgb(217, 235, 217);
    border: solid 5px cadetblue;
    width: 392px;
    }
+   ol li:hover{
+    background-color:  rgb(217, 235, 217);
+    border: solid 3px cadetblue;
+    width: 142px;
+    }
+    ol li{
+       margin: 0px;
+        width: 130px;
+        }
    #licoes_aprendidas{
        display: inline-block;
        width: 200px;
@@ -102,6 +111,7 @@
    
    .lado-esquerdo{
        margin-bottom: 10px;
+       border: solid;
        vertical-align: top;
        width: 510px;
        display: inline-block;
@@ -110,6 +120,7 @@
    }
    
    .lado-direito{
+       border: solid;
        padding: 0px 60px ;
        width: 510px;
        display: inline-block;
@@ -123,13 +134,19 @@
        background-color: #39853f;
    }
    #lista{
-       background: #41a151;
-       width: 741px;
+       border: solid;
+       background:  #39853f;;
+       width: 746px;
        box-shadow: 3px 3px 8px 0 #20382f;
    }
    tr{
        text-align: center;
        background-color: rgb(241, 253, 232);
    }
+   ul{
+       
+       width: 511px;
+   }
+  
    
    
