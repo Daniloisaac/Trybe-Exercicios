@@ -1,3 +1,0 @@
-ls = lista de diretórios
-ls -a = lista todos os arquivos e diretórios
-mkdir = cria um diretório 
