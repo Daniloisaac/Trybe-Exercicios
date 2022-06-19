@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <header>
+      <h2 id="page-title">Título</h2>
+      <p id="paragraph" class="p">Dê uma cor para este parágrafo!</p>
+      <h4 id="subtitle">Subtítulo</h4>
+      <p id="second-paragraph" class="p">Segundo parágrafo!</p>
+    </header>
+    <script>
+      const paragraph = document.querySelector("#paragraph");
+      paragraph.style.color = "red";
+      const title =document.querySelector("#page-title");
+      title.innerText="piratas do caribe"
+      const secound= document.getElementById("second-paragraph");
+      secound.innerText= "caipirinha"
+      secound.style.fontFamily= 'Helvetica'
+     const sub= document.getElementById("subtitle");
+       sub.innerText="pello"
+
+       let p1=document.querySelectorAll("p")[0];
+       p1.style.fontFamily="Helvetica"
+
+       var h4=document.getElementsByTagName("h4")[0];
+       h4.style.color="green"
+
+
+    </script>
+  </body>
+</html>

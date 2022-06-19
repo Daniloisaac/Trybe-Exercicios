@@ -1,0 +1,20 @@
+h1 {
+	color: orange;
+	font-size:65px;
+	font-family: sans-serif;
+ }
+ ul{
+  background-color: aqua;
+ }
+ .mudar-cor{
+	 background-color: red;
+ }
+
+ p {
+  font-weight: 600;
+	font-size: 3em;
+ }
+ body {
+	 font-size: 16px;
+	 
+ }
