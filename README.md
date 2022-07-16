@@ -1,6 +1,6 @@
 # Trybe-Exercícios
 
-### Este repositório contém todos os exercícios que eu [(Danilo isaac)](https://www.linkedin.com/in/danilo-isaac-0034b1238/) realizei na Trybe! 👨‍💻
+### Este repositório contém todos os exercícios que eu  [(Danilo isaac)](https://www.linkedin.com/in/danilo-isaac-0034b1238/) realizei na Trybe! 👨‍💻
 >A trybe é um programa de ensino que possui uma carga horaria de 1500 horas e aborda front-end, back-end, ciência da computação, metodologias ágeis e soft skills,logica de programação e as principais linguagens, como: JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, Phyton, entre outras linguagens e frameworks.
 
 ## Fundamentos do Desenvolvimento Web 🕔
