@@ -23,3 +23,11 @@
 - [x] 3.3: HTML & CSS - Seletores e posicionamento
 - [x] 3.4: HTML Semântico
 - [x] 3.5: <a href="https://daniloisaac.github.io/Trybe-Exercicios//fundamentos/bloco-03-Introducao-Html-Css/project-lessons-learned/" target="_blank"> Projeto - Lessons Learned </a>
+
+##### Bloco 4: [Introdução à JavaScript e Lógica de Programação]
+- [x] 4.1 - Introdução - JavaScript
+- [x] 4.1 - JavaScript - Primeiros passos
+- [x] 4.2 - JavaScript - Array e loop For
+- [x] 4.3 - JavaScript - Lógica de Programação e Algoritmos
+- [x] 4.4 - JavaScript - Objetos e funções
+- [x] 4.5 - Projeto - Playground Functions
