@@ -30,4 +30,4 @@
 - [x] 4.2 - JavaScript - Array e loop For
 - [x] 4.3 - JavaScript - Lógica de Programação e Algoritmos
 - [x] 4.4 - JavaScript - Objetos e funções
-- [x] 4.5 - Projeto - Playground Functions
+- [x] 4.5 - Projeto - <a href="https://github.com/Daniloisaac/Trybe-Exercicios/tree/main/fundamentos/bloco-04-Introdu%C3%A7%C3%A3o-a-JS/playground-functionshttps://github.com/Daniloisaac/Trybe-Exercicios/tree/main/fundamentos/bloco-04-Introdu%C3%A7%C3%A3o-a-JS/playground-functions" target="_blank"> Projeto - Playground Functions </a>
