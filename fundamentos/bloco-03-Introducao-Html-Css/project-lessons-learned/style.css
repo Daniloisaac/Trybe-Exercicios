@@ -18,7 +18,7 @@ body {
 	width: 300px;
 	margin-top: 70px;
 	display: inline-block;
-	
+
 	
 }
 #titulo{
@@ -53,6 +53,7 @@ width: 392px;
  color: crimson;
  left: 310px;
  top: 300px;
+ z-index: 2;
 }
 #img{
 	width: 300px;
@@ -99,7 +100,20 @@ width: 392px;
  #texto{
    padding: 78px 0px;
 }
-
+#git{
+ position: absolute;
+ color: crimson;
+ left: 399px;
+ top: 300px;
+ z-index: 1;
+}
+#seguir{
+	position: absolute;
+	color: crimson;
+	left: 280px;
+	top: 180px;
+	width: 210px;
+}
 .lado-esquerdo{
 	margin-bottom: 10px;
 	vertical-align: top;
