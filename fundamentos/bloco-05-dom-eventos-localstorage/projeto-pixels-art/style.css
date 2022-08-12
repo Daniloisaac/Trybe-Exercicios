@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+}
+
+body {
+background-image: url('imagens/pordosollolfi.png');
+background-position: center;
+background-attachment: fixed ;
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+
+header {
+  position:absolute;
+  right: 582px;
+}
+
+#color-palette {
+  position:absolute;
+  top: 86px;
+  right: 380px;
+  width: 526px;
+}
+
+#title{
+ border: solid;
+}
+
+.color{
+    border: solid 1px;
+    height: 30px;
+    width: 100px;
+    display: inline-block;
+}
+
+#board-container{
+  position: relative;
+  left: 30px;
+  top: 140px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+
+}
+
+.pixel .coll{
+  border: solid 1px;
+  height: 40px;
+  width: 40px;
+  
+     
+}
+
+#div-input{
+	width: 230px;
+	display: inline-block;
+  position:absolute;
+  top: 48px;
+  right: 533px;
+
+}
+
+#clear-board{
+	width: 60px;
+	display: inline-block;
+  position:absolute;
+  top: 48px;
+  right: 470px;
+}
+
+.row {
+  display: table-row;
+}
+
+.coll {
+  display: table-cell;
+  height: 40px;
+  width: 40px;
+  border: 1px solid black;
+  margin: 5px;
+}
