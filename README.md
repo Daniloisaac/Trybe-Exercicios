@@ -31,3 +31,13 @@
 - [x] 4.3 - JavaScript - Lógica de Programação e Algoritmos
 - [x] 4.4 - JavaScript - Objetos e funções
 - [x] 4.5 - Projeto - <a href="https://github.com/Daniloisaac/Trybe-Exercicios/tree/main/fundamentos/bloco-04-Introdu%C3%A7%C3%A3o-a-JS/playground-functions" target="_blank"> Projeto - Playground Functions </a>
+
+##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage]
+- [x] 5.1 - JavaScript - DOM e seletores
+- [x] 5.2 - JavaScript - Trabalhando com elementos
+- [x] 5.3 - JavaScript - Eventos
+- [x] 5.4 - JavaScript - Web Storage
+- [x] 5.5 - Fundamentos - JavaScript - Projetos
+- [x] 5.5 - Projeto - <a href="https://daniloisaac.github.io/Trybe-Exercicios/fundamentos/bloco-05-dom-eventos-localstorage/projeto-pixels-art/" target="_blank"> Projeto - Arte com Pixels </a>
+
+

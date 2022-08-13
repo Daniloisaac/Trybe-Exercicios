@@ -133,7 +133,7 @@ butto.addEventListener('click', () => {
   Columns = inputNumber;
   createPixel();
   setDayColor();
-  evente()
+  evente();
   inpu.value = '';
 });
 
