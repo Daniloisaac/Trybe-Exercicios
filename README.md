@@ -3,7 +3,7 @@
 ### Este repositório contém todos os exercícios que eu  [(Danilo isaac)](https://www.linkedin.com/in/danilo-isaac-0034b1238/) realizei na Trybe! 👨‍💻
 >A trybe é um programa de ensino que possui uma carga horaria de 1500 horas e aborda front-end, back-end, ciência da computação, metodologias ágeis e soft skills,logica de programação e as principais linguagens, como: JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, Phyton, entre outras linguagens e frameworks.
 
-## Fundamentos do Desenvolvimento Web 🕔
+## Fundamentos do Desenvolvimento Web :heavy_check_mark:
 
 ##### Bloco 1: [Unix, Bash e Shell Script]
 - [x] 1.3 - Fundamentos do Desenvolvimento Web
@@ -49,3 +49,17 @@
 - [x] 6.5 - CSS Responsivo - Mobile First
 - [x] 6.6 - Projeto - <a href="https://daniloisaac.github.io/Trybe-Exercicios//fundamentos/bloco-06-forms-flexbox/projeto-trybewarts/" target="_blank"> Projeto - Trybewarts </a>
 
+##### Bloco 7: [Introdução à JavaScript ES6 e Testes Unitários]
+- [x] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
+- [x] 7.2 - JavaScript ES6 - Objects
+- [x] 7.3 - Testes unitários em JavaScript
+- [x] 7.4 - Projeto - JavaScript Testes Unitários
+
+##### Bloco 8: [Higher Order Functions do JavaScript ES6]
+- [x] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [x] 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
+- [x] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
+- [x] 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+- [x] 8.5 - Projeto - Zoo functions
+
+## Desenvolvimento Front-end 🕔
