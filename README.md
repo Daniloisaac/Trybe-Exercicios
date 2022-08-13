@@ -40,4 +40,12 @@
 - [x] 5.5 - Fundamentos - JavaScript - Projetos
 - [x] 5.5 - Projeto - <a href="https://daniloisaac.github.io/Trybe-Exercicios/fundamentos/bloco-05-dom-eventos-localstorage/projeto-pixels-art/" target="_blank"> Projeto - Arte com Pixels </a>
 
+##### Bloco 6: [HTML e CSS: Forms, Flexbox e Responsivo]
+- [x] 6.1 - HTML & CSS - Forms
+- [x] 6.2 - Bibliotecas JavaScript e Frameworks CSS
+- [x] 6.3 - Introdução - CSS Flexbox
+- [x] 6.3 - CSS Flexbox - Parte 1
+- [x] 6.4 - CSS Flexbox - Parte 2
+- [x] 6.5 - CSS Responsivo - Mobile First
+- [x] 6.6 - Projeto - <a href="https://daniloisaac.github.io/Trybe-Exercicios//fundamentos/bloco-06-forms-flexbox/projeto-trybewarts/" target="_blank"> Projeto - Trybewarts </a>
 
