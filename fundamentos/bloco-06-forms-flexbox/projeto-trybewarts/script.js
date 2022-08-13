@@ -40,7 +40,6 @@ const contador = () => {
 
 textArea.addEventListener('keyup', contador);
 
-console.log(submitBtn);
 
 const checkedSubjects = () => {
   const subjectsArray = [];
